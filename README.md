@@ -24,17 +24,16 @@ SeeThroughAI is an AI-powered assistive navigation system designed for visually 
 - Deep Learning
 
 ---
-
-## Output Screenshots
-
-### Phone & Person Detection
-![Phone Detection](screenshots/phone_detection.png)
+## Project Screenshots
 
 ### Bottle Detection
-![Bottle Detection](screenshots/bottle_detection.png)
+![Bottle Detection](./screenshots/Bottle_detection.png)
 
 ### Chair Detection
-![Chair Detection](screenshots/chair_detection.png)
+![Chair Detection](./screenshots/Chair_detection.png)
+
+### Multiple Object Detection
+![Multiple Object Detection](./screenshots/Multiple_object_detection.png)
 
 ---
 
